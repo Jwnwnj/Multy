@@ -106,7 +106,7 @@ def index():
             color: white;
         }
         button {
-            background: red;
+            background: black;
             border: none;
             color: white;
             padding: 12px 20px;
