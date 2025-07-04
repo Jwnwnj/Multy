@@ -72,7 +72,7 @@ def index():
 <!DOCTYPE html>
 <html>
 <head>
-    <title>❤️ ALEX MULTY SERVER ❤️</title>
+    <title>HENRY-X 2.0</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
