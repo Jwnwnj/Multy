@@ -76,7 +76,7 @@ def index():
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
-            background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+            background: linear-gradient(to right, #9932CC, #FF00FF);
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
