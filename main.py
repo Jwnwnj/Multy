@@ -85,7 +85,7 @@ def index():
             width: 100%;
             max-width: 100%;
             border: 2px solid red;
-            background: #1a0000;
+            background: transparent;
             padding: 25px;
             border-radius: 20px;
             margin-bottom: 30px;
