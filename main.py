@@ -109,6 +109,7 @@ def index():
             background: #7B68EE;
             border: none;
             color: white;
+            justify-content: center;
             padding: 12px 20px;
             border-radius: 10px;
             cursor: pointer;
@@ -119,6 +120,7 @@ def index():
         h2 {
             text-align: center;
             color: red;
+            justify-content: center;
             font-size: 22px;
             margin-bottom: 20px;
         }
