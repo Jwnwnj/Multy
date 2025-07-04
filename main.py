@@ -76,7 +76,7 @@ def index():
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
-            background: black;
+            background: #8A2BE2,#FF00FF;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
